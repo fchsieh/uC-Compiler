@@ -5,3 +5,5 @@ Course project of Compiler design
 ```shell
 ./cmrunner [-f <file>][-i <input>]
 ```
+
+## Check "Requirements" for detail
