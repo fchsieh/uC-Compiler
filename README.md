@@ -3,5 +3,5 @@ Course project of Compiler design
 
 ## Usage
 ```shell
-./cmrunner
+./cmrunner [-f <file>][-i <input>]
 ```
